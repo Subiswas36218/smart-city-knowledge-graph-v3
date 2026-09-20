@@ -1,6 +1,6 @@
 # 🏙️ Smart City Knowledge Graph & Network Accessibility Analyzer
 
-[![CI](https://github.com/Subiswas36218/smart-city-knowledge-graph-v3.git/actions/workflows/ci.yml/badge.svg)](https://github.com/Subiswas36218/smart-city-knowledge-graph-v3.git/actions/workflows/ci.yml)
+[![CI](https://github.com/Subiswas36218/smart-city-knowledge-graph-v3/actions/workflows/ci.yml/badge.svg)](https://github.com/Subiswas36218/smart-city-knowledge-graph-v3/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![GeoPandas](https://img.shields.io/badge/GeoPandas-Geospatial-139C5A)](https://geopandas.org/)
 [![OSMnx](https://img.shields.io/badge/OSMnx-OpenStreetMap-3B82F6)](https://osmnx.readthedocs.io/)
