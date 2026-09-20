@@ -1,0 +1,17 @@
+osmnx>=2.0
+geopandas>=1.0
+pandas>=2.2
+numpy>=1.26
+networkx>=3.2
+scikit-learn>=1.5
+matplotlib>=3.9
+folium>=0.17
+plotly>=5.24
+rdflib>=7.0
+requests>=2.32
+pyarrow>=17.0
+python-dotenv>=1.0
+shapely>=2.0
+pytest>=8.0
+jupyterlab>=4.0
+ipykernel>=6.0
